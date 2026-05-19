@@ -1,84 +1,58 @@
-# Rakesh G R
+### Hi, I'm Rakesh G R
 
-**Full-Stack Software Engineer & Data Science Specialist**  
-*Developing high-performance intelligent web platforms, real-time IoT hardware solutions, and robust DevOps/AI pipelines.*
+I'm a CS student (Data Science specialization) at Alva's Institute of Engineering and Technology, Mangalore. I work across the full stack — from training CNN models and building ETL pipelines to shipping web apps in Next.js and Go.
 
----
+This past year I interned at Edunet Foundation (in collaboration with Shell India & AICTE), where I built an automated image classification system using transfer learning on a dataset of 5,500+ raw images and got it to 94% inference accuracy. I also won the NASA Space Apps Challenge (Galactic Problem-Solver, 2025) and our department hackathon in 2026.
 
-### 🚀 About Me
-I am a B.Tech Computer Science Engineering student specializing in Data Science at Alva's Institute of Engineering and Technology. I combine modern full-stack web architectures (Next.js, Flask, Go) with machine learning methodologies and IoT system design to build applications that solve real-world problems.
-
-- 🔭 **Current Focus**: Enhancing containerized simulation engines and local-first developer productivity tools.
-- 💡 **Key Expertise**: Full-Stack Architecture, Deep Learning, IoT Tracking, and CI/CD Automation.
-- 📍 **Location**: Bangalore, India
+Most of what I build lives somewhere between ML and systems — real-time RFID anomaly detection, NLP sentiment pipelines, local CI/CD simulation engines, or AQI forecasting models pulling from NASA APIs. I like problems where the data is messy and the latency constraints are real.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend & Design</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend & Infrastructure</strong><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Machine Learning & AI</strong><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Hardware & Domain Focus</strong><br/>
-      <img src="https://img.shields.io/badge/IoT-00ADD8?style=for-the-badge&logo=internet-of-things&logoColor=white" alt="IoT" />
-      <img src="https://img.shields.io/badge/RFID-E34F26?style=for-the-badge" alt="RFID" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
+**What I'm working on right now:**
+- [YamlAnchor](https://github.com/Rakeshgr962/YamlAnchor) — a local-first CI/CD self-healing tool that scans your repo, generates GitHub Actions YAML, and validates it inside Docker containers before you ever push
+- GrokCity — a real-time NLP sentiment analysis engine built on the Groq API, with a 3D visualization layer, keeping p99 latency under 50ms
 
 ---
 
-### 🌟 Featured Repositories
+**Stack I actually use:**
 
-*   **[YamlAnchor](https://github.com/Rakeshgr962/YamlAnchor)** — *Local-First CI/CD Self-Healing Pipeline Generator*. Automatically analyzes repositories to build, validate, and dynamically self-heal GitHub Actions YAML workflows locally using containerized simulation engines. (Next.js, Tailwind, Go, Docker)
-*   **[GarbageClassification](https://github.com/Rakeshgr962/GarbageClassfication)** — *EfficientNetB0 Segregation AI*. High-accuracy CNN image classifier powered by transfer learning to segregate cardboard, glass, metal, paper, plastic, and general trash. Achieved 89.24% test accuracy. (TensorFlow, Keras, Gradio UI)
-*   **[AeroBuy](https://github.com/Rakeshgr962/AeroBuy)** — *Full-Stack E-Commerce Platform*. A transactional online storefront featuring product listing schemas, persistent cart sessions, authentication, and secure order workflows. (Flask, MongoDB, Javascript)
-*   **[arthasetu-website](https://github.com/Rakeshgr962/arthasetu-website)** — *Financial Planning Portal*. A clean wealth advisory web app featuring live SIP interest calculators, mutual fund portfolio evaluation tools, and customer strategy dashboards. (HTML5, Vanilla CSS, JS)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+**Projects worth looking at:**
+
+| | |
+|---|---|
+| [YamlAnchor](https://github.com/Rakeshgr962/YamlAnchor) | CI/CD self-healing pipeline generator. Scans your repo, writes the YAML, runs it locally in Docker. Next.js + Go. |
+| [Garbage Classification AI](https://github.com/Rakeshgr962/GarbageClassfication) | EfficientNetB0 classifier for 6 waste categories, 89.24% test accuracy. Gradio web interface included. |
+| [AeroBuy](https://github.com/Rakeshgr962/AeroBuy) | Flask + MongoDB e-commerce store with 200+ products. Aggregation pipeline optimization cut query latency by 35%. |
+| [arthasetu-website](https://github.com/Rakeshgr962/arthasetu-website) | Financial advisory portal. Includes a precise SIP calculator, portfolio tracker, and wealth strategy dashboard. |
+
+---
+
+**GitHub activity:**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshgr962&show_icons=true&theme=nord&count_private=true" alt="Rakesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgr962&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshgr962&show_icons=true&theme=nord&count_private=true&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgr962&layout=compact&theme=nord&hide_border=true" height="150"/>
 </div>
 
 ---
 
-### 🤝 Get In Touch
-*   **Portfolio**: [rakeshgr.netlify.app](https://rakeshgr.netlify.app)
-*   **Email**: [rakeshgr962@gmail.com](mailto:rakeshgr962@gmail.com)
-*   **LinkedIn**: [linkedin.com/in/rakeshgr](https://linkedin.com/in/rakeshgr) (Placeholder)
-*   **Phone**: +91 9035402276
+**Get in touch:**
+[rakeshgr223@gmail.com](mailto:rakeshgr223@gmail.com) · [linkedin.com/in/rakeshgr18](https://linkedin.com/in/rakeshgr18) · [rakeshgr.netlify.app](https://rakeshgr.netlify.app) · +91 9035402276
