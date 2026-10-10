@@ -7,7 +7,7 @@
 <div align="center">
 
 ### CS Engineering (Data Science) · Alva's Institute of Engineering & Technology, Mangalore
-### 🏆 NASA Space Apps Challenge Winner
+
 
 Building AI-powered systems and production-grade software —
 from computer vision pipelines and explainable ML to role-aware full-stack platforms.
