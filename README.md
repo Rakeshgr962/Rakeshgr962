@@ -1,62 +1,181 @@
-# Hi, I'm Rakesh G R 👋
+<div align="center">
 
-I'm a **Computer Science Engineering student (Data Science specialization)** at Alva's Institute of Engineering and Technology, Mangalore. I work across the full stack — from training CNN models and building ETL pipelines to shipping web apps in **Next.js** and **Go**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=Rakesh%20G%20R&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Systems&descSize=16&descAlignY=70" width="100%"/>
 
-This past year, I interned at **Edunet Foundation** (in collaboration with Shell India & AICTE), where I built an automated image classification system using transfer learning on a dataset of 5,500+ raw images, achieving **94% inference accuracy**. I also won the **NASA Space Apps Challenge** (Galactic Problem-Solver, 2025) and our department hackathon in 2026.
-
-Most of what I build lives somewhere between **ML and systems** — real-time RFID anomaly detection, NLP sentiment pipelines, local CI/CD simulation engines, or AQI forecasting models pulling from NASA APIs. I like problems where the data is messy and the latency constraints are real.
-
----
-
-### 🚀 What I'm working on right now
-- 🛠️ **[YamlAnchor](https://github.com/Rakeshgr962/YamlAnchor)** — A local-first CI/CD self-healing tool that scans your repo, generates GitHub Actions YAML, and validates it inside Docker containers before you ever push.
-- ⚡ **GrokCity** — A real-time NLP sentiment analysis engine built on the Groq API, featuring a 3D visualization layer and keeping p99 latency under 50ms.
-
----
-
-### 💻 Stack I actually use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
----
-
-### 🌟 Projects worth looking at
-
-| Project | Description |
-| :--- | :--- |
-| 🛠️ **[YamlAnchor](https://github.com/Rakeshgr962/YamlAnchor)** | CI/CD self-healing pipeline generator. Scans your repo, writes the YAML, and runs it locally in Docker. Built with **Next.js + Go**. |
-| ♻️ **[Garbage Classification AI](https://github.com/Rakeshgr962/GarbageClassfication)** | EfficientNetB0 classifier for 6 waste categories achieving **89.24% test accuracy**. Includes a Gradio web interface. |
-| 🛒 **[AeroBuy](https://github.com/Rakeshgr962/AeroBuy)** | Flask + MongoDB e-commerce store with 200+ products. Aggregation pipeline optimization cut query latency by **35%**. |
-| 📈 **[arthasetu-website](https://github.com/Rakeshgr962/arthasetu-website)** | Financial advisory portal featuring a precise SIP calculator, portfolio tracker, and wealth strategy dashboard. |
-
----
-
-### 📊 GitHub Activity
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshgr962&show_icons=true&theme=nord&count_private=true&hide_border=true&hide_title=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgr962&layout=compact&theme=nord&hide_border=true" height="150" alt="Top Languages"/>
+
+### CS Engineering (Data Science) · Alva's Institute of Engineering & Technology, Mangalore
+### 🏆 NASA Space Apps Challenge Winner
+
+Building AI-powered systems and production-grade software —
+from computer vision pipelines and explainable ML to role-aware full-stack platforms.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakeshgr.netlify.app-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://rakeshgr.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-gr)
+[![Email](https://img.shields.io/badge/Email-rakeshgrr962%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshgrr962@gmail.com)
+
 </div>
 
 ---
 
-### 📫 Get in touch
+## 🧭 Who I Am
 
-- 📧 **Email:** [rakeshgr223@gmail.com](mailto:rakeshgr223@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/rakeshgr18](https://linkedin.com/in/rakeshgr18)
-- 🌐 **Portfolio:** [rakeshgr.netlify.app](https://rakeshgr.netlify.app)
-- 📱 **Phone:** +91 9035402276
+I'm a final-year CS student who builds things at the intersection of ML and software engineering. My work spans transfer learning models, full-stack academic platforms with explainable AI, sustainability-focused AI tools built for real internships, and parallel computing experiments in C++.
+
+What I care about: **systems that are honest about uncertainty**, code that's structured enough for someone else to run without a phone call, and ML paired with real interfaces — not just notebooks.
+
+Currently seeking **internships in AI/ML engineering, full-stack development, or data science — December 2026 onwards.**
+
+---
+
+## 🔨 What I Build
+
+```
+AI / ML          →  Computer vision · Transfer learning · Explainable AI (SHAP) · Rule-based classifiers
+Full-Stack        →  React 19 + TypeScript + Supabase · Role-based access · Real-time dashboards
+Sustainability    →  AI for waste segregation · Air quality forecasting (SDG-aligned)
+Systems           →  Parallel computing · Dense matrix multiplication in C++
+Learning Now      →  LLMOps · RAG pipelines · FastAPI · Agentic AI
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [AIET-UniSphere](https://github.com/Aiet-Unisphere/AIET-UniSphere)
+**Academic Management Platform**
+
+Role-aware portal for engineering colleges with 4 dashboards — Student, Faculty, HOD, Admin — each scoped by RS256 JWT and Supabase Row Level Security.
+
+The AI layer runs **XGBoost + Random Forest** on attendance and marks data and surfaces at-risk student alerts in the faculty view. Each alert includes **SHAP explainability** so faculty understand *why* a student was flagged.
+
+`React 19` `TypeScript` `Supabase` `XGBoost` `SHAP` `RS256 JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ [AI-EcoSort](https://github.com/Rakeshgr962/AI-EcoSort)
+**AI-Powered Waste Segregation Assistant**
+
+Built for the **1M1B IBM SkillsBuild AI for Sustainability** internship (SDG 12). Classifies waste into 5 categories with disposal guidance. Runs fully **offline** via a local rule-based classifier — no database, no external API required. Optionally connects to **IBM Granite via watsonx.ai**.
+
+Ships with unit tests, Architecture docs, Responsible AI plan, Privacy policy, and a confidence meter that communicates uncertainty honestly.
+
+`React 19` `TypeScript` `Vitest` `IBM Granite` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗑️ [GarbageClassfication](https://github.com/Rakeshgr962/GarbageClassfication)
+**Computer Vision — Transfer Learning**
+
+EfficientNetB0 transfer learning model for waste image classification across 6 categories.
+
+- **89.24%** accuracy on public dataset
+- **94%** accuracy on extended internship dataset
+
+Ships with a Gradio demo app and full retraining instructions.
+
+`Python` `TensorFlow` `EfficientNetB0` `Gradio`
+
+</td>
+<td width="50%" valign="top">
+
+### 💹 [arthasetu-website](https://github.com/Rakeshgr962/arthasetu-website)
+**Financial Calculator Portal · [Live →](https://arthasetu.vercel.app)**
+
+SIP, EMI, and goal-based financial calculators with a clean, responsive UI. Deployed on Vercel.
+
+`JavaScript` `HTML` `CSS` `Vercel`
+
+---
+
+### 🛒 [AeroBuy](https://github.com/Rakeshgr962/AeroBuy)
+**E-Commerce Backend**
+
+Flask e-commerce with product catalog, cart, checkout, and MongoDB data layer. Session management via Flask-Login.
+
+`Python` `Flask` `MongoDB` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Dense-Matrix-Multiplication](https://github.com/Rakeshgr962/Dense-Matrix-Multiplication)
+**Parallel Computing · Performance Engineering**
+
+Parallelisation strategies for dense matrix multiplication in C++. Includes full project report covering algorithm design, benchmarking methodology, and parallelisation overhead analysis.
+
+`C++` `Parallel Computing` `Performance Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Atmos](https://github.com/Rakeshgr962/Atmos) *(private)*
+**Air Quality Forecasting**
+
+Multi-source ETL pipeline and time-series forecasting for air quality data. 88% accuracy, built to handle 500+ daily data requests.
+
+`Python` `ETL` `Time-Series` `Forecasting`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | Python · TypeScript · JavaScript · C++ · SQL |
+| **AI / ML** | TensorFlow · scikit-learn · XGBoost · SHAP · EfficientNet · Gradio · IBM Granite |
+| **Frontend** | React 19 · Vite · Tailwind CSS · Vitest |
+| **Backend** | Flask · Supabase · PostgreSQL · MongoDB |
+| **Tooling** | Docker · Git · Oxlint |
+| **Learning** | FastAPI · RAG · LLMOps · Agentic AI |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rakeshgr962&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgr962&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6" />
+
+</div>
+
+---
+
+## 📌 Currently
+
+- 🔭 Building: RAG pipelines and FastAPI services
+- 🌱 Learning: LLMOps, agentic AI workflows, MLOps tooling  
+- 🎯 Open to: Internships (Dec 2026) in AI/ML Engineering · Full-Stack · Data Science
+- 🏅 Won: NASA Space Apps Challenge
+
+---
+
+<div align="center">
+
+*"Build things that are honest about what they can and cannot do."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
+
+</div>
