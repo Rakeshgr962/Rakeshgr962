@@ -22,7 +22,7 @@ from computer vision pipelines and explainable ML to role-aware full-stack platf
 
 ---
 
-## 🧭 Who I Am
+## 🧭 Who Am I
 
 I'm a final-year CS student who builds things at the intersection of ML and software engineering. My work spans transfer learning models, full-stack academic platforms with explainable AI, sustainability-focused AI tools built for real internships, and parallel computing experiments in C++.
 
